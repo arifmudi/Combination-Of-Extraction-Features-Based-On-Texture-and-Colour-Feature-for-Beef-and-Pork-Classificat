@@ -1,2 +1,2 @@
-# Combination-Of-Extraction-Features-Based-On-Texture-and-Colour-Feature-for-Beef-and-Pork-Classificat
-Combination Of Extraction Features Based On Texture and Colour Feature for Beef and Pork Classification
+# paper1
+combination of extraction features based on texture feature for beef and pork classification
